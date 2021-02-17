@@ -6,13 +6,13 @@ QuickLabelTool是为MIT锥桶数据集开发的标注工具，在MIT已有标注
 
 ##### 数据集下载
 
-MIT提供的数据集中，有许多图片并没有标注信息，筛选过后的数据集请前往https://jbox.sjtu.edu.cn/v/link/view/628f760873b34b51afbed8c375b52573 下载。总共有6个压缩包，images1-5各包含803张未标注过的图片，images6中包含1965张未标注过的图片。
+MIT提供的数据集中，有许多图片并没有标注信息，筛选过后的数据集请前往https://jbox.sjtu.edu.cn/v/link/view/628f760873b34b51afbed8c375b52573 或 https://pan.baidu.com/s/1lsrl9-E_oqpYNZuSFXSSWw (提取码：56mf) 下载。总共有6个压缩包，images1-5各包含803张未标注过的图片，images6中包含1965张未标注过的图片。
 
 MIT原始数据集请前往https://console.cloud.google.com/storage/browser/mit-driverless-open-source/?project=mitdriverless&pli=1   查看。
 
 ##### 软件下载
 
-QuickLabelTool免安装中文硬盘版请前往链接：https://pan.baidu.com/s/1ZcyWIH02STzx4U4_Ciovmg (提取码：dqua)或 https://jbox.sjtu.edu.cn/v/link/view/b3c4e0666645463c9b0e1e570916c293 下载。
+QuickLabelTool免安装中文硬盘版请前往https://pan.baidu.com/s/1ZcyWIH02STzx4U4_Ciovmg (提取码：dqua)或 https://jbox.sjtu.edu.cn/v/link/view/b3c4e0666645463c9b0e1e570916c293 下载。
 
 ### 使用方法
 
